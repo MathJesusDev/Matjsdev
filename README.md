@@ -1,2 +1,2 @@
-![MatjsDev's Stats](https://github-readme-stats.vercel.app/api?username=MatjsDev&theme=react&show_icons=true&hide_border=true&count_private=true)
-![MatjsDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatjsDev&theme=react&show_icons=true&hide_border=true&layout=compact)
+![MathJesusDev's Stats](https://github-readme-stats.vercel.app/api?username=MathJesusDev&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+![MathJesusDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathJesusDev&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
